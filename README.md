@@ -1,3 +1,3 @@
 # BogdanVrinceanu.github.io
 
-Developing my website in my freetime.
+Developing my website in the freetime.
